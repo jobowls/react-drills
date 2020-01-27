@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
+import beheaded from '../Components/deadCells.jpg';
 
 class Image extends Component {
   render() {
     return (
       <div>
-        <img src={this.props.dog} />
+        <img id="beheaded" src={beheaded} alt="none" />
       </div>
     )
   }
