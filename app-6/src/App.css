@@ -1,8 +1,28 @@
 .App {
   text-align: center;
+  background-color: rgb(42, 171, 226);
+  width: 100vw;
+  height: 500px;
+  color: white;
+  font-weight: bold;
+  font-size: xx-large;
 }
 
-.App-logo {
+.App-header {
+  background-color: rgb(42, 171, 226);
+  width: 100vw;
+  height: 100px;
+  color: white;
+  font-weight: bold;
+  text-align: left;
+  background-repeat: no-repeat;
+}
+
+/* .App {
+  text-align: center;
+} */
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +55,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
