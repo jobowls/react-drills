@@ -2,7 +2,24 @@
   text-align: center;
 }
 
-.App-logo {
+.App-header {
+  height: 50vh;
+  width: 100vw;
+  background-color: rgb(42, 171, 226);
+  text-align: left;
+  font-weight: bold;
+  font-size: xx-large;
+  color: white;
+}
+
+#box {
+  height: 20px;
+  top: 30px;
+  left: 750px;
+  position: fixed;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +52,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
